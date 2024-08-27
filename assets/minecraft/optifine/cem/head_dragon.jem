@@ -1,0 +1,58 @@
+{
+	"texture": "dragon.png",
+	"textureSize": [256, 256],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -8, -2],
+			"boxes": [
+				{"coordinates": [-6, 5, -24, 12, 10, 18], "textureOffset": [132, 185]},
+				{"coordinates": [-8, 0, -8, 16, 16, 17], "textureOffset": [111, 29]},
+				{"coordinates": [-6.025, 2, -24, 0, 3, 15], "textureOffset": [47, 236]},
+				{"coordinates": [-6, 2, -24.025, 12, 3, 0], "textureOffset": [99, 231]}
+			],
+			"submodels": [
+				{
+					"id": "horn",
+					"invertAxis": "xy",
+					"translate": [0, 16, -2],
+					"rotate": [47.5, 0, 0],
+					"submodels": [
+						{
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [3, 0, 0, 4, 11, 6], "textureOffset": [0, 0]}
+							]
+						}
+					],
+					"boxes": [
+						{"coordinates": [-7, 0, 0, 4, 11, 6], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "mirrored",
+					"invertAxis": "xy",
+					"translate": [3, -2, 22],
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [3.025, 4, -46, 0, 3, 15], "textureOffset": [47, 236]}
+					]
+				}
+			]
+		},
+		{
+			"part": "jaw",
+			"id": "jaw",
+			"invertAxis": "xy",
+			"translate": [0, -4, 6],
+			"boxes": [
+				{"coordinates": [5, 5, -23, 0, 3, 15], "textureOffset": [148, 237]},
+				{"coordinates": [-5, 5, -23, 0, 3, 15], "textureOffset": [148, 237]},
+				{"coordinates": [-6, 0, -24, 12, 5, 16], "textureOffset": [198, 205]}
+			]
+		}
+	]
+}
