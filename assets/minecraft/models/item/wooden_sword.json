@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "items/wood_sword"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, -35 ],
+            "translation": [ 0, 1.25, -3.5 ],
+            "scale": [ 1.5, 1.5, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -120, 25 ],
+            "translation": [ 0, 6, 2 ],
+            "scale": [ 2, 2, 1 ]
+        }
+    }
+}

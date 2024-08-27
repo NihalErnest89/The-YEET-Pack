@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "items/iron_sword"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, -35 ],
+            "translation": [ 0, 1.25, -3.5 ],
+            "scale": [ 1.2, 1.2, 0.85 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -120, 30 ],
+            "translation": [ 0, 5, 1.5 ],
+            "scale": [ 1.7, 2, 1 ]
+        }
+    }
+}

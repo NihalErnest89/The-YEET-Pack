@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "items/stick"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 180, 90, -35 ],
+            "translation": [ 0, 1, -6 ],
+            "scale": [ 1.25, 1.25, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -120, 30 ],
+            "translation": [ 0, 6, 1.25 ],
+            "scale": [ 1.7, 1.9, 1.7 ]
+        }
+    }
+}

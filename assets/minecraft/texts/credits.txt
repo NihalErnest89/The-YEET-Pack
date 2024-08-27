@@ -1,28 +1,13 @@
-[C]§f============
-[C]§eThe YEET squad
-[C]§f============
-
-§7Yeet Squad minecraft gamers
-§f          Warrior24 (Main creator of this pack)
-§f          Ironman02
-§f          Drakon2k2
-§f          carl_alex
-§f          WarriorKiller03
-§f          gumbartica
-§f          SamManX
-
-§7Youtube channels of the YEET squad (sub or bald)
-§f          Warrior24yeets (Warrior24)
-§f          The Invincible Clasher (Ironman02)
-§f          WarriorKiller03
-§f          Sam la Salle (SamManX, occasional apex legends content)
-§f          Clfrca (carl_alex)
-§f          Clfrca Yeets (carl_alex)
-§f          fbii01 (warrior24's old channel search at your own risk)
-§f          Code Zero (starblast.io content)
-§f          Alaska (roblox content every so often)
+Makers of Minecraft:
+	Mojang
 
 
+Resource pack editor:
+	Ironman02
 
 
-§f"go to gulag" §7- Iosef Stalin, probably
+Winner of the game:
+	You
+
+
+Thanks for playing!
